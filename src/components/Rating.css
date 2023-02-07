@@ -42,7 +42,7 @@
   background-color: rgb(147, 147, 147);
 }
 
-.btn-group button:focus {
+.btn-group button:active {
   background-color: orange;
 }
 
